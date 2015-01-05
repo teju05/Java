@@ -1,0 +1,20 @@
+//Absolute.java
+import java.util.Scanner;
+public class Absolute {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		float y;
+		int x;
+		Scanner input = new Scanner( System.in );
+		System.out.printf("enter a float value:");
+		y= input.nextFloat();
+		System.out.printf("\n Given float value : y= %f\n",y);
+		x=Math.round(y);
+		System.out.printf("After round off:y=%d\n",x);
+	}
+
+}
