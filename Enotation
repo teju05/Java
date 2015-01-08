@@ -2,7 +2,7 @@
 public class Enotation {
 	public static void main(String args[])
 	{
-		double cellno =919535099633L;
+		double cellno =912345678L;
 		System.out.printf("My cell number is%3.2E%n",cellno);
 	}
 }
