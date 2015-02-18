@@ -9,6 +9,7 @@ public class Absolute {
 		// TODO Auto-generated method stub
 		float y;
 		int x;
+		int a;
 	
 		System.out.printf("enter a float value:");
 		y= input.nextFloat();
