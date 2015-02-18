@@ -1,6 +1,6 @@
 //Absolute.java
 import java.util.Scanner;
-public class Absolute {
+public class Abs
 
 	/**
 	 * @param args
