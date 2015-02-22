@@ -1,6 +1,6 @@
 public class Structure {
 	public static void main(String args[])
 	{
-		System.out.println("C is a Structured \b\b\b\b\b\b\b\b\b\b-------language.\n");
+		System.out.println("C is a Structured \b\b\b\b\b\b\b\b\b\b-------
 	}
 }
